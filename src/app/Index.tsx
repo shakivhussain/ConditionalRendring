@@ -21,6 +21,7 @@ const Index = () => {
 
             {/* <ConditionalComponent />
 
+
             <AndOperator /> */}
             <TernaryComponent />
 
